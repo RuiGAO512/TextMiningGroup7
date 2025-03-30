@@ -15,4 +15,4 @@ This repository contains the complete source code for our final project. We appl
 
 - `NERC.ipynb` – Named Entity Recognition using spaCy and BERT  
 - `TopicAnalysis.ipynb` – Topic classification based on sentence-level labels  
-- `sentiment_analysis.ipyb` - Sentiment Analysis using a VADER model.
+- `Sentiment_analysis.ipyb` - Sentiment Analysis using a VADER model.
